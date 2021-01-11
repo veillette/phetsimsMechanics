@@ -1,2 +1,2 @@
 # phetsimsMechanics
-PhET Simulation for General Physics I
+PhET Simulations for General Physics I
